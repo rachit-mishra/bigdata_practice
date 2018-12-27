@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iquest_submissions_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/iquest_submissions_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="iquest_submissions" />
+    </root>
+  </artifact>
+</component>
